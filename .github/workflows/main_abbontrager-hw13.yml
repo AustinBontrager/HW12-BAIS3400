@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'abbontrager-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD65B87974B84F5E85125C1D7F4F0CC1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E839D7DC3AB4E4F89C114794216D3E4 }}
